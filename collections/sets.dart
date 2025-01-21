@@ -61,7 +61,7 @@ void main() {
 
   //length() method - get the length of the set
   Set<int> numberSet1 = {1, 2, 3, 4, 5};
-  print(numberSet1.length); // 3
+  print(numberSet1.length); // 5
 
   //add() method - add a element to the set
   Set<int> numberSet2 = {1, 2, 3, 4, 5};
